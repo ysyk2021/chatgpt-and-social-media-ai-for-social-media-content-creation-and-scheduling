@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the potential of ChatGPT and other AI technologies for social media content creation and scheduling. We have discussed the advantages of using chatbots and AI in social media management, as well as the limitations and challenges that must be addressed.
 

@@ -1,5 +1,4 @@
-Chapter 1: Understanding Social Media Content Creation and Scheduling
-=====================================================================
+
 
 What is Social Media Content Creation and Scheduling?
 -----------------------------------------------------

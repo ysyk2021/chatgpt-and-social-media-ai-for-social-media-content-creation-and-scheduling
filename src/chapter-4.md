@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will introduce ChatGPT and its features. We will also discuss the advantages of using ChatGPT in social media content creation and scheduling, as well as provide case studies on ChatGPT in social media management.
 

@@ -1,5 +1,4 @@
-Objectives of the book
-====================================
+
 
 The rise of social media platforms has transformed the way businesses engage with their customers and promote their brand. However, creating and scheduling engaging social media content can be a complex and time-consuming process.
 

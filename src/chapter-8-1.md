@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 Throughout this book, we have covered several key points:
 

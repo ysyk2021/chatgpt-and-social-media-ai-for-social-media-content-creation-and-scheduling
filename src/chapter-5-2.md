@@ -1,5 +1,4 @@
-Personalization Techniques Used in ChatGPT for Social Media Management
-====================================================================================================================================================
+
 
 ChatGPT is an advanced natural language processing model that has the potential to transform social media content creation and scheduling. One of the key ways in which ChatGPT improves social media management is through the use of personalization techniques.
 
