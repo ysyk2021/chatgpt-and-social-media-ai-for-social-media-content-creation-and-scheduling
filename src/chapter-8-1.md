@@ -1,5 +1,4 @@
 
-
 Throughout this book, we have covered several key points:
 
 * Social media platforms have become a crucial aspect of modern communication and marketing strategies.

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the types of chatbots used in social media management. Chatbots are a type of AI technology that can be used to automate conversations with users on social media platforms, improving efficiency and engagement.
 
 Rule-Based Chatbots

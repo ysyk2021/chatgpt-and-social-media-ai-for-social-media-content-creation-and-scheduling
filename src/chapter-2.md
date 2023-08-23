@@ -1,5 +1,4 @@
 
-
 What is Social Media Content Creation and Scheduling?
 -----------------------------------------------------
 
