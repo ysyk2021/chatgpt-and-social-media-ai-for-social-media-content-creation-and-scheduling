@@ -1,5 +1,4 @@
-Chapter: Types of Social Media Content Creation and Scheduling Techniques Used Today
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
